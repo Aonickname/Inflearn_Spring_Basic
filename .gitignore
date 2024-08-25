@@ -1,4 +1,7 @@
-HELP.md
+### Logback Configuration ###
+**/src/main/resources/logback.xml
+
+### HELP.md ###
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
